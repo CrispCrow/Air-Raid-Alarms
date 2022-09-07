@@ -4,15 +4,6 @@ body {
     background-color: #A6AD9A;
 }
 
-a {
-    text-decoration: none;
-    color: white;
-}
-
-a:hover {
-    text-decoration: underline;
-}
-
 .navbar>.container, .navbar>.container-fluid,
 .navbar>.container-lg, .navbar>.container-md, .navbar>.container-sm,
 .navbar>.container-xl, .navbar>.container-xxl {
@@ -24,7 +15,8 @@ a:hover {
 
 .nav-link:focus, .nav-link:hover {
     text-decoration: underline;
-    text-underline-offset: 21px;
+    text-underline-position: under;
+    text-underline-offset: 16px;
 }
 
 .navbar-expand-md .navbar-collapse {
