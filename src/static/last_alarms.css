@@ -44,6 +44,7 @@ body {
     font-size: 30px;
     margin: 15px 5px 5px 5px;
     padding: 5px;
+    box-shadow: 0px 3px 7px #363636;
 }
 
 .__last_air_alarms {
@@ -52,6 +53,7 @@ body {
     font-size: 30px;
     padding: 17px 7px 6px 7px;
     color: #DFE3D8;
+    box-shadow: 0px 3px 7px #363636;
 }
 
 .__last_alarms_list {
@@ -68,6 +70,7 @@ body {
     margin: 15px 5px 5px 5px;
     padding: 19px 10px 10px 10px;
     flex-direction: column;
+    box-shadow: 0px 3px 7px #363636;
 }
 
 .__alarm_text {
